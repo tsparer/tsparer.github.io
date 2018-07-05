@@ -1,0 +1,37 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Tim Sparer sometimes lives here
+tagline:             Questionable decisions, supported by robust analysis. Sometimes.
+url:                 http://zwmiller.com
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Tim Sparer
+  email:             ________
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/tsparer
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
