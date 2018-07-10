@@ -6,5 +6,4 @@ This is a blog post about my experience using publicly available datasets to opt
 I would like to write more on this, but the deadline is approaching, and it's late, and I need to sleep.
 More later, maybe?  
 
-<div class="message">
- </div>En
+
