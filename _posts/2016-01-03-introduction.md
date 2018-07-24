@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Introduction-  Zach Miller explains how Jekyll and Poole work.
+title: Time-boxing... is not Dr. Who shadow-boxing his quantum alter-ego
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+This will likely be a post on effectively time boxing- and the trade-offs between defining a problem, finding a solution, and communicating your results.
+
 
 -----
 
