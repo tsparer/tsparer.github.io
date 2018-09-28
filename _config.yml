@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Tim Sparer sometimes lives here
-tagline:             Questionable decisions, supported by robust analysis. Sometimes.
-url:                 http://zwmiller.com
+tagline:             Questionable decisions, supported by robust analysis. Sometimes
+url:                 https://tsparer.github.io/
 paginate:            2
 baseurl:             ""
 
