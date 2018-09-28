@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Example content - (Courtesy of Zach Miller)
+title: At some point, a real blog will live here.
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  For now, enjoy this an example blog post (courtesy of Zach Miller) that shows several types of HTML content supported in this theme.
 </div>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
